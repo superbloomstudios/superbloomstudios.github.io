@@ -1239,6 +1239,37 @@ section {
   bottom: 15px;
 }
 
+.team .member .founding-member-info {
+  padding: 25px 15px;
+}
+
+.team .member .founding-member-info h4 {
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: #151515;
+}
+
+.team .member .founding-member-info span {
+  display: block;
+  font-size: 13px;
+  font-weight: 400;
+  color: #aaaaaa;
+}
+
+.team .member .founding-member-info p {
+  font-style: italic;
+  font-size: 14px;
+  line-height: 26px;
+  color: #777777;
+  transition: 1s;
+  height: 0px;
+}
+
+.team .member .founding-member-info p:hover {
+  height: fit-content;
+}
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
