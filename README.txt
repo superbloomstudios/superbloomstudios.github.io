@@ -1,4 +1,4 @@
-Website draft link: https://senthamizhanv.github.io/superbloom-website
+Website draft link: https://superbloomstudios.github.io/
 
 Template Name: Gp
 Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
